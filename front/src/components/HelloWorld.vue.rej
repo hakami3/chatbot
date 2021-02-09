@@ -1,0 +1,6 @@
+diff a/front/src/components/HelloWorld.vue b/front/src/components/HelloWorld.vue	(rejected hunks)
+@@ -2,3 +3,4 @@
++
+ <template>
+   <div class="container">    
+     <div class="col-lg-6 offset-lg-3 ">        
